@@ -14,6 +14,7 @@ public class addElements {
 			arr3[i] = arr1[i] + arr2[i];
 		}
 		System.out.println(Arrays.toString(arr3));
+		System.out.println("testing");
 	}
 
 }
