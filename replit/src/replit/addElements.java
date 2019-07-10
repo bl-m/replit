@@ -15,6 +15,10 @@ public class addElements {
 		}
 		System.out.println(Arrays.toString(arr3));
 		System.out.println("testing");
+		System.out.println("testing");
+		System.out.println("testing");
+		System.out.println("testing");
+
 	}
 
 }
